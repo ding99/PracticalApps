@@ -1,0 +1,14 @@
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.deps.json
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.runtimeconfig.json
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.dll
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\bin\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.pdb
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfo.cs
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.dll
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\refint\Northwind.Common.EntityModels.Sqlite.dll
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.pdb
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
+D:\ProG\CS\PracticalApps\Northwind.Common.EntityModels.Sqlite\obj\Debug\net6.0\ref\Northwind.Common.EntityModels.Sqlite.dll
