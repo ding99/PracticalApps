@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,9 +16,12 @@ namespace Packt.Shared
             CustomerTypes = new HashSet<CustomerDemographic>();
         }
 
+        [Required]
         [Key]
         [StringLength(5)]
+        [RegularExpression("[A-Z]{5}")]
         public string CustomerId { get; set; } = null!;
+        [Required]
         [StringLength(40)]
         public string CompanyName { get; set; } = null!;
         [StringLength(30)]
